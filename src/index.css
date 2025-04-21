@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+/* Ensure the body and html take up the full viewport height */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  box-sizing: border-box;
+}
+
+/* Ensure all elements respect the box model */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* Prevent scrollbars for textarea unless content exceeds */
+textarea {
+  overflow: auto;
+  resize: none; /* Prevent resizing if not needed */
+}
+
+@keyframes scroll {
+  0% {
+      transform: translateX(0);
+  }
+  100% {
+      transform: translateX(-100%);
+  }
+}

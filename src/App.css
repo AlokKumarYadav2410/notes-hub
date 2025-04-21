@@ -1,0 +1,41 @@
+/* Ensure the body and html take up the full viewport height */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  background-color: #1a202c; /* Matches bg-gray-900 */
+}
+
+/* Ensure the #root element fills the viewport */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Ensure all elements respect the box model */
+*, *::before, *::after {
+  box-sizing: border-box;
+  /* outline: 1px solid red; Highlights all elements */
+}
+
+/* Prevent scrollbars for textarea unless content exceeds */
+textarea {
+  overflow: auto;
+  resize: none; /* Prevent resizing if not needed */
+}
+
+/* Footer styling */
+/* footer {
+  background-color: #1a1a1a;
+  color: #a0aec0;
+  text-align: center;
+  padding: 1rem 0;
+} */
+.flex-grow {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: calc(100vh - 4rem); /* Adjust for the navbar height */
+}
