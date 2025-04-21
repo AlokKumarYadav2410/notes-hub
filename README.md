@@ -91,3 +91,40 @@ Follow these steps to run NotesHub on your local machine:
     Visit http://localhost:5173 to see GitPDF in action! 🎉
     or
     http://localhost:5174
+
+## 📂 Project Structure
+
+    notes-hub/
+    ├── public/               # Static assets
+    ├── src/
+    │   ├── components/       # Reusable components (Navbar, Footer, Note, etc.)
+    │   ├── redux/            # Redux slices for state management
+    │   ├── App.jsx           # Main application file
+    │   ├── index.css         # Global styles
+    │   ├── main.jsx          # Entry point
+    ├── package.json          # Project dependencies and scripts
+    └── README.md             # Project documentation
+
+## 🤝 Contributing
+We welcome contributions! 🛠️ If you'd like to improve NotesHub, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature-name.
+3. Make your changes and commit them: git commit -m "Add feature-name".
+4. Push to your branch: git push origin feature-name.
+5. Open a pull request.
+
+## 📜 License
+- This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+## ❤️ Acknowledgments
+- Built with love by **Alok Kumar Yadav**.
+- Inspired by the need for simple and effective task management.
+
+## 🌐 Connect with Me
+- Let's connect and collaborate!
+    - 📧 Linkedin: [ALOK KUMAR YADAV](https://www.linkedin.com/in/alokkumaryadav2410) 
+    - 🐙 GitHub: [AlokKumarYadav2410](https://github.com/AlokKumarYadav2410)
+
+---
+**NotesHub**: Simplify your life, one note at a time! ✨
