@@ -6,9 +6,9 @@ Welcome to **NotesHub**! 🎉 NotesHub is a sleek and intuitive note-taking appl
 
 ## 📚 Table of Contents
 
-- [🌟 Features](#-features)
 - [🎨 Screenshots](#-screenshots)
 - [🌐 Live Demo](#-live-demo)
+- [🌟 Features](#-features)
 - [🖥️ Tech Stack](#️-tech-stack)
 - [🚀 Getting Started](#-getting-started)
 - [📂 Project Structure](#-project-structure)
@@ -16,20 +16,6 @@ Welcome to **NotesHub**! 🎉 NotesHub is a sleek and intuitive note-taking appl
 - [📜 License](#-license)
 - [❤️ Acknowledgments](#%EF%B8%8F-acknowledgments)
 - [🌐 Connect with Me](#-connect-with-me)
-
----
-
-## 🌟 Features
-
-✨ **Create Notes**: Quickly jot down your ideas and thoughts.  
-🔍 **Search Notes**: Easily find notes using the search functionality.  
-✏️ **Edit Notes**: Update your notes as your ideas evolve.  
-🗑️ **Delete Notes**: Remove notes you no longer need.  
-📊 **Organized View**: View all your notes in a clean and structured layout.  
-🔗 **Share Notes**: Generate shareable links for your notes.  
-🌙 **Dark Mode**: Toggle between light and dark themes for a comfortable experience.  
-💾 **Persistent Storage**: Your notes are saved in your browser's local storage, so they won't disappear on refresh!  
-📱 **Responsive Design**: Fully adaptive for mobile, tablet, and desktop devices, ensuring a seamless experience on any screen size.  
 
 ---
 
@@ -46,6 +32,20 @@ Welcome to **NotesHub**! 🎉 NotesHub is a sleek and intuitive note-taking appl
 ## 🌐 Live Demo
 
 Check out the live demo here: 🔗 [NotesHub Live Demo](https://notes-hub.vercel.app) 🌍
+
+---
+
+
+## 🌟 Features
+
+✨ **Create Notes**: Quickly jot down your ideas and thoughts.  
+🔍 **Search Notes**: Easily find notes using the search functionality.  
+✏️ **Edit Notes**: Update your notes as your ideas evolve.  
+🗑️ **Delete Notes**: Remove notes you no longer need.  
+📊 **Organized View**: View all your notes in a clean and structured layout.  
+🔗 **Share Notes**: Generate shareable links for your notes.   
+💾 **Persistent Storage**: Your notes are saved in your browser's local storage, so they won't disappear on refresh!  
+📱 **Responsive Design**: Fully adaptive for mobile, tablet, and desktop devices, ensuring a seamless experience on any screen size.  
 
 ---
 
