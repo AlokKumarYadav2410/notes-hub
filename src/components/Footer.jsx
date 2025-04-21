@@ -8,7 +8,7 @@ const Footer = () => {
       </p>
       <div className="flex justify-center space-x-4 mt-2">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/AlokKumarYadav2410"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white"
@@ -16,15 +16,15 @@ const Footer = () => {
           GitHub
         </a>
         <a
-          href="https://twitter.com/yourusername"
+          href="https://t.me/Subastral_alok"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white"
         >
-          Twitter
+          Telegram
         </a>
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/alokkumaryadav2410"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white"
