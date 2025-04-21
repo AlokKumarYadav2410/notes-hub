@@ -31,7 +31,7 @@ Welcome to **NotesHub**! 🎉 NotesHub is a sleek and intuitive note-taking appl
 
 ## 🌐 Live Demo
 
-Check out the live demo here: 🔗 [NotesHub Live Demo](https://notes-hub.vercel.app) 🌍
+Check out the live demo here: 🔗 [NotesHub Live Demo](https://notes-hub-six.vercel.app) 🌍
 
 ---
 
@@ -91,6 +91,7 @@ Follow these steps to run NotesHub on your local machine:
     Visit http://localhost:5173 to see GitPDF in action! 🎉
     or
     http://localhost:5174
+---
 
 ## 📂 Project Structure
 
@@ -105,6 +106,8 @@ Follow these steps to run NotesHub on your local machine:
     ├── package.json          # Project dependencies and scripts
     └── README.md             # Project documentation
 
+---
+
 ## 🤝 Contributing
 We welcome contributions! 🛠️ If you'd like to improve NotesHub, follow these steps:
 
@@ -114,12 +117,17 @@ We welcome contributions! 🛠️ If you'd like to improve NotesHub, follow thes
 4. Push to your branch: git push origin feature-name.
 5. Open a pull request.
 
+---
+
 ## 📜 License
 - This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+---
 
 ## ❤️ Acknowledgments
 - Built with love by **Alok Kumar Yadav**.
-- Inspired by the need for simple and effective task management.
+- Inspired by the need for simple and effective note management.
+
+---
 
 ## 🌐 Connect with Me
 - Let's connect and collaborate!
