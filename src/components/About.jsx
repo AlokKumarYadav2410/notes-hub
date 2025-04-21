@@ -46,11 +46,11 @@ const About = () => {
         <p className="text-gray-300 text-lg leading-relaxed mb-8">
           Hi, I'm <span className="text-amber-500 font-semibold hover:bg-amber-500 hover:text-amber-50 duration-500 ease-in-out cursor-pointer">Alok Kumar Yadav</span>, a passionate developer who loves
           building intuitive and user-friendly applications. Connect with me on{' '}
-          <a href="#" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
+          <a href="https://www.linkedin.com/in/alokkumaryadav2410" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
             LinkedIn
           </a>{' '}
           or{' '}
-          <a href="#" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline ">
+          <a href="https://github.com/AlokKumarYadav2410" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline ">
             GitHub
           </a>.
         </p>
